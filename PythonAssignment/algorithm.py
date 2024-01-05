@@ -1,0 +1,10 @@
+def askQuestion () :
+    name = input( "What is your name? ")
+    hobby = input( "What is your hobby? ")
+    FavMov = input("What is your favourite movie?")
+    FavSong = input("What is your favourite song?")
+    print( "OK,so your name,hobby,Favourite movie and favourite song is: ")
+    print( name )
+    print( hobby )
+    print( FavMov )
+    print( FavSong )

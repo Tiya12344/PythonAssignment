@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="algorithm.py" />
     <Compile Include="Happybirthday.py" />
     <Compile Include="main.py" />
   </ItemGroup>
